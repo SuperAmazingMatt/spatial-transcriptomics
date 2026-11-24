@@ -1,0 +1,23 @@
+# Private data and locally generated analyses.
+04_data/*
+!04_data/README.md
+!04_data/sample_manifest_TEMPLATE.csv
+**/02_results/*
+!**/02_results/README.md
+*.rds
+*.RData
+*.Rhistory
+.Rproj.user/
+.Renviron
+.env
+*.h5
+*.h5ad
+*.loom
+*.mtx
+*.mtx.gz
+*.fastq
+*.fastq.gz
+*.bam
+*.cram
+*.zip
+*.tar.gz
